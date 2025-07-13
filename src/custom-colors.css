@@ -1,0 +1,78 @@
+/* Custom Tailwind Colors - Temporary Fix */
+.bg-gray-20 {
+  background-color: #F8F4EB !important;
+}
+
+.bg-gray-50 {
+  background-color: #EFE6E6 !important;
+}
+
+.bg-gray-100 {
+  background-color: #DFCCCC !important;
+}
+
+.bg-gray-500 {
+  background-color: #5E0000 !important;
+}
+
+.text-gray-500 {
+  color: #5E0000 !important;
+}
+
+.bg-primary-100 {
+  background-color: #FFE1E0 !important;
+}
+
+.bg-primary-300 {
+  background-color: #FFA6A3 !important;
+}
+
+.bg-primary-500 {
+  background-color: #FF6B66 !important;
+}
+
+.text-primary-500 {
+  color: #FF6B66 !important;
+}
+
+.bg-secondary-400 {
+  background-color: #FFCD5B !important;
+}
+
+.bg-secondary-500 {
+  background-color: #FFC132 !important;
+}
+
+.text-secondary-500 {
+  color: #FFC132 !important;
+}
+
+.bg-gradient-yellowred {
+  background: linear-gradient(90deg, #FF616A 0%, #FFC837 100%) !important;
+}
+
+/* Font families */
+.font-dmsans {
+  font-family: "DM Sans", sans-serif !important;
+}
+
+.font-montserrat {
+  font-family: "Montserrat", sans-serif !important;
+}
+
+/* Content pseudo-elements */
+.before\:content-evolvetext::before {
+  content: url('./assets/EvolveText.png');
+}
+
+.before\:content-abstractwaves::before {
+  content: url('./assets/AbstractWaves.png');
+}
+
+.before\:content-sparkles::before {
+  content: url('./assets/Sparkles.png');
+}
+
+.before\:content-circles::before {
+  content: url('./assets/Circles.png');
+}
