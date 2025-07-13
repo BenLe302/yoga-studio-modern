@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "benefits": "Avantages",
+    "ourClasses": "Nos Cours",
+    "programs": "Programmes",
+    "coaches": "Coachs",
+    "schedule": "Horaires",
+    "pricing": "Tarifs",
+    "shop": "Boutique",
+    "blog": "Blog",
+    "contactUs": "Contact",
+    "signIn": "Connexion",
+    "becomeAMember": "Devenir Membre"
+  },
+  "hero": {
+    "title": "Fitness",
+    "subtitle": "Inégalé.",
+    "description": "Salle de sport inégalée. Cours de fitness d'entraînement inégalés. Studios de classe mondiale pour obtenir les formes corporelles dont vous rêvez. Obtenez le corps de vos rêves maintenant.",
+    "joinNow": "Rejoignez-nous",
+    "learnMore": "En savoir plus",
+    "sponsoredBy": "Sponsorisé par"
+  },
+  "benefits": {
+    "title": "PLUS QU'UNE SIMPLE SALLE DE SPORT.",
+    "description": "Nous fournissons des équipements de fitness de classe mondiale, des entraîneurs et des cours pour vous aider à atteindre vos objectifs de fitness ultimes avec facilité. Nous apportons un véritable soin à chaque membre.",
+    "benefit1": {
+      "title": "Installations de pointe",
+      "description": "Neque adipiscing amet amet enim. Feugiat dolor enim fermentum in a in lectus pellentesque. Ullamcorper et."
+    },
+    "benefit2": {
+      "title": "Des centaines de cours variés",
+      "description": "Eu ipsum id egestas risus tempus enim semper felis quis. Nec consectetur ac venenatis facilisi est. Eget ac turpis id."
+    },
+    "benefit3": {
+      "title": "Entraîneurs experts et professionnels",
+      "description": "Fusce vestibulum aliquam ut cras. Nisl lectus egestas sapien nisl. Lacus at mi sit pellentesque. Congue parturient."
+    },
+    "joinNow": "Rejoignez-nous"
+  },
+  "classes": {
+    "title": "NOS COURS",
+    "description": "Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est tellus quam porttitor. Mauris velit euismod elementum arcu neque facilisi. Amet semper tortor facilisis metus nibh. Rhoncus sit enim mattis odio in risus nunc."
+  },
+  "programs": {
+    "title": "NOS PROGRAMMES",
+    "description": "Découvrez nos programmes de fitness complets conçus pour vous aider à atteindre vos objectifs."
+  },
+  "coaches": {
+    "title": "NOS COACHS",
+    "description": "Rencontrez notre équipe de professionnels du fitness certifiés et expérimentés."
+  },
+  "schedule": {
+    "title": "HORAIRES DES COURS",
+    "description": "Trouvez l'horaire de cours parfait qui correspond à votre emploi du temps."
+  },
+  "pricing": {
+    "title": "PLANS D'ADHÉSION",
+    "description": "Choisissez le plan qui vous convient le mieux."
+  },
+  "shop": {
+    "title": "BOUTIQUE FITNESS",
+    "description": "Obtenez les meilleurs équipements et accessoires de fitness."
+  },
+  "blog": {
+    "title": "BLOG FITNESS",
+    "description": "Restez à jour avec les derniers conseils et tendances fitness."
+  },
+  "contact": {
+    "title": "REJOIGNEZ-NOUS MAINTENANT POUR VOUS METTRE EN FORME",
+    "description": "Congue adipiscing risus commodo placerat. Tellus et in feugiat nisl sapien vel rhoncus. Placerat at in enim pellentesque. Nulla adipiscing leo egestas nisi elit risus sit. Nunc cursus sagittis.",
+    "form": {
+      "name": "NOM",
+      "email": "EMAIL",
+      "message": "MESSAGE",
+      "submit": "ENVOYER"
+    }
+  },
+  "auth": {
+    "signIn": {
+      "title": "Connexion",
+      "email": "Email",
+      "password": "Mot de passe",
+      "submit": "Se connecter",
+      "noAccount": "Pas de compte ?",
+      "signUp": "S'inscrire"
+    },
+    "signUp": {
+      "title": "Inscription",
+      "firstName": "Prénom",
+      "lastName": "Nom",
+      "email": "Email",
+      "password": "Mot de passe",
+      "confirmPassword": "Confirmer le mot de passe",
+      "submit": "S'inscrire",
+      "hasAccount": "Déjà un compte ?",
+      "signIn": "Se connecter"
+    }
+  },
+  "dashboard": {
+    "welcome": "Bon retour !",
+    "myClasses": "Mes Cours",
+    "myPrograms": "Mes Programmes",
+    "profile": "Profil",
+    "settings": "Paramètres",
+    "logout": "Déconnexion"
+  },
+  "footer": {
+    "description": "Lorem vitae ut augue auctor faucibus eget eget ut libero. Elementum purus et arcu massa dictum condimentum. Augue scelerisque iaculis orci ut habitant laoreet. Iaculis tristique.",
+    "links": "Liens",
+    "contactUs": "Nous contacter"
+  }
+}

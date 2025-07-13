@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "home": "Home",
+    "benefits": "Benefits",
+    "ourClasses": "Our Classes",
+    "programs": "Programs",
+    "coaches": "Coaches",
+    "schedule": "Schedule",
+    "pricing": "Pricing",
+    "shop": "Shop",
+    "blog": "Blog",
+    "contactUs": "Contact Us",
+    "signIn": "Sign In",
+    "becomeAMember": "Become a Member"
+  },
+  "hero": {
+    "title": "Unmatched",
+    "subtitle": "Fitness.",
+    "description": "Unrivaled Gym. Unparalleled Training Fitness Classes. World Class Studios to get the Body Shapes That you Dream of.. Get Your Dream Body Now.",
+    "joinNow": "Join Now",
+    "learnMore": "Learn More",
+    "sponsoredBy": "Sponsored By"
+  },
+  "benefits": {
+    "title": "MORE THAN JUST A GYM.",
+    "description": "We provide world class fitness equipment, trainers and classes to get you to your ultimate fitness goals with ease. We provide true care into each and every member.",
+    "benefit1": {
+      "title": "State of the Art Facilities",
+      "description": "Neque adipiscing amet amet enim. Feugiat dolor enim fermentum in a in lectus pellentesque. Ullamcorper et."
+    },
+    "benefit2": {
+      "title": "100's of Diverse Classes",
+      "description": "Eu ipsum id egestas risus tempus enim semper felis quis. Nec consectetur ac venenatis facilisi est. Eget ac turpis id."
+    },
+    "benefit3": {
+      "title": "Expert and Pro Trainers",
+      "description": "Fusce vestibulum aliquam ut cras. Nisl lectus egestas sapien nisl. Lacus at mi sit pellentesque. Congue parturient."
+    },
+    "joinNow": "Join Now"
+  },
+  "classes": {
+    "title": "OUR CLASSES",
+    "description": "Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est tellus quam porttitor. Mauris velit euismod elementum arcu neque facilisi. Amet semper tortor facilisis metus nibh. Rhoncus sit enim mattis odio in risus nunc."
+  },
+  "programs": {
+    "title": "OUR PROGRAMS",
+    "description": "Discover our comprehensive fitness programs designed to help you achieve your goals."
+  },
+  "coaches": {
+    "title": "OUR COACHES",
+    "description": "Meet our team of certified and experienced fitness professionals."
+  },
+  "schedule": {
+    "title": "CLASS SCHEDULE",
+    "description": "Find the perfect class time that fits your schedule."
+  },
+  "pricing": {
+    "title": "MEMBERSHIP PLANS",
+    "description": "Choose the plan that works best for you."
+  },
+  "shop": {
+    "title": "FITNESS SHOP",
+    "description": "Get the best fitness equipment and accessories."
+  },
+  "blog": {
+    "title": "FITNESS BLOG",
+    "description": "Stay updated with the latest fitness tips and trends."
+  },
+  "contact": {
+    "title": "JOIN NOW TO GET IN SHAPE",
+    "description": "Congue adipiscing risus commodo placerat. Tellus et in feugiat nisl sapien vel rhoncus. Placerat at in enim pellentesque. Nulla adipiscing leo egestas nisi elit risus sit. Nunc cursus sagittis.",
+    "form": {
+      "name": "NAME",
+      "email": "EMAIL",
+      "message": "MESSAGE",
+      "submit": "SUBMIT"
+    }
+  },
+  "auth": {
+    "signIn": {
+      "title": "Sign In",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Sign In",
+      "noAccount": "Don't have an account?",
+      "signUp": "Sign Up"
+    },
+    "signUp": {
+      "title": "Sign Up",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "submit": "Sign Up",
+      "hasAccount": "Already have an account?",
+      "signIn": "Sign In"
+    }
+  },
+  "dashboard": {
+    "welcome": "Welcome back!",
+    "myClasses": "My Classes",
+    "myPrograms": "My Programs",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "footer": {
+    "description": "Lorem vitae ut augue auctor faucibus eget eget ut libero. Elementum purus et arcu massa dictum condimentum. Augue scelerisque iaculis orci ut habitant laoreet. Iaculis tristique.",
+    "links": "Links",
+    "contactUs": "Contact Us"
+  }
+}
