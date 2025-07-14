@@ -1,0 +1,54 @@
+<svg width="300" height="250" viewBox="0 0 300 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="benefits-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10B981" />
+      <stop offset="100%" style="stop-color:#059669" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background circle -->
+  <circle cx="150" cy="125" r="120" fill="url(#benefits-gradient)" opacity="0.1"/>
+  
+  <!-- Central figure in meditation pose -->
+  <g transform="translate(125, 75)">
+    <!-- Head -->
+    <circle cx="25" cy="20" r="12" fill="url(#benefits-gradient)"/>
+    
+    <!-- Body -->
+    <rect x="20" y="32" width="10" height="45" rx="5" fill="url(#benefits-gradient)"/>
+    
+    <!-- Arms in meditation position -->
+    <circle cx="10" cy="50" r="6" fill="url(#benefits-gradient)" opacity="0.8"/>
+    <circle cx="40" cy="50" r="6" fill="url(#benefits-gradient)" opacity="0.8"/>
+    
+    <!-- Legs crossed -->
+    <ellipse cx="25" cy="85" rx="20" ry="8" fill="url(#benefits-gradient)" opacity="0.9"/>
+  </g>
+  
+  <!-- Benefit icons around the figure -->
+  <!-- Heart (health) -->
+  <g transform="translate(50, 50)">
+    <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" fill="#EF4444" transform="scale(0.8)"/>
+  </g>
+  
+  <!-- Brain (mental clarity) -->
+  <g transform="translate(220, 60)">
+    <circle cx="12" cy="12" r="10" fill="#8B5CF6" opacity="0.8"/>
+    <path d="M8 8h8M8 12h8M8 16h6" stroke="white" stroke-width="1" stroke-linecap="round"/>
+  </g>
+  
+  <!-- Strength (muscle) -->
+  <g transform="translate(60, 180)">
+    <rect x="8" y="4" width="8" height="16" rx="4" fill="#F59E0B"/>
+    <circle cx="12" cy="2" r="2" fill="#F59E0B"/>
+    <circle cx="12" cy="22" r="2" fill="#F59E0B"/>
+  </g>
+  
+  <!-- Balance (yin-yang style) -->
+  <g transform="translate(200, 170)">
+    <circle cx="12" cy="12" r="10" fill="#6366F1"/>
+    <path d="M12 2a10 10 0 0 0 0 20 5 5 0 0 0 0-10 5 5 0 0 1 0-10z" fill="white"/>
+    <circle cx="12" cy="7" r="2" fill="white"/>
+    <circle cx="12" cy="17" r="2" fill="#6366F1"/>
+  </g>
+</svg>

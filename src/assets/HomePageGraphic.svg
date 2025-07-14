@@ -1,0 +1,42 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B5CF6;stop-opacity:0.1" />
+      <stop offset="100%" style="stop-color:#EC4899;stop-opacity:0.1" />
+    </linearGradient>
+    <linearGradient id="person-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B5CF6" />
+      <stop offset="100%" style="stop-color:#EC4899" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="400" height="300" fill="url(#bg-gradient)" rx="20"/>
+  
+  <!-- Yoga pose silhouette -->
+  <g transform="translate(150, 50)">
+    <!-- Head -->
+    <circle cx="50" cy="30" r="15" fill="url(#person-gradient)"/>
+    
+    <!-- Body -->
+    <rect x="45" y="45" width="10" height="60" rx="5" fill="url(#person-gradient)"/>
+    
+    <!-- Arms in yoga pose -->
+    <rect x="25" y="55" width="40" height="8" rx="4" fill="url(#person-gradient)" transform="rotate(-15 45 59)"/>
+    <rect x="35" y="75" width="30" height="8" rx="4" fill="url(#person-gradient)" transform="rotate(15 50 79)"/>
+    
+    <!-- Legs in yoga pose -->
+    <rect x="35" y="105" width="8" height="40" rx="4" fill="url(#person-gradient)" transform="rotate(-20 39 125)"/>
+    <rect x="57" y="105" width="8" height="40" rx="4" fill="url(#person-gradient)" transform="rotate(20 61 125)"/>
+  </g>
+  
+  <!-- Decorative elements -->
+  <circle cx="80" cy="80" r="3" fill="#8B5CF6" opacity="0.6"/>
+  <circle cx="320" cy="100" r="4" fill="#EC4899" opacity="0.6"/>
+  <circle cx="100" cy="220" r="2" fill="#8B5CF6" opacity="0.8"/>
+  <circle cx="300" cy="250" r="3" fill="#EC4899" opacity="0.7"/>
+  
+  <!-- Yoga mat -->
+  <rect x="120" y="200" width="160" height="80" rx="10" fill="#8B5CF6" opacity="0.2"/>
+</svg>
